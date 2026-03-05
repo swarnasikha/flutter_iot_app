@@ -417,7 +417,7 @@ class _LoginScreenState extends State<LoginScreen>
                                         Icon(Icons.power_settings_new, color: Colors.white, size: 18),
                                         SizedBox(width: 10),
                                         Text(
-                                          "INITIALIZE SESSION",
+                                          "SIGNIN SESSION",
                                           style: TextStyle(
                                             color: Colors.white,
                                             fontWeight: FontWeight.w800,
