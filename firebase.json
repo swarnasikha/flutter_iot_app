@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"steampro-iot","appId":"1:838372730273:android:651f7efabe61d96594d7e0","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"steampro-iot","configurations":{"android":"1:838372730273:android:651f7efabe61d96594d7e0","ios":"1:838372730273:ios:5aea901044161ac594d7e0"}}}}}}

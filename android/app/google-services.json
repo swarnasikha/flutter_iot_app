@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "838372730273",
+    "project_id": "steampro-iot",
+    "storage_bucket": "steampro-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838372730273:android:651f7efabe61d96594d7e0",
+        "android_client_info": {
+          "package_name": "com.example.iot_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838372730273-b01k1ve7lbogr2oemdbqhbro3no5qam6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7D_cT1eeVL_n9VI864z80cu6X3eiNrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838372730273-b01k1ve7lbogr2oemdbqhbro3no5qam6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838372730273-102vbg8i6nutb4llsc908ebusrs2qlcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
